@@ -21,4 +21,4 @@ Javascript Codility application
 ### Status
 Backend is completed 
 
-Frontend on progress
+Frontend is on progress
