@@ -1,0 +1,6 @@
+{
+    "compilerLanguages": [{
+        "language": "javaScript",
+        "versionSupport": "ES2018"
+    }]
+}

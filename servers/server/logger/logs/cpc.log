@@ -1,0 +1,298 @@
+[2020-08-20T13:16:19.848] [ERROR] cpc - result controller:: createResult MongoError: E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "123" }
+    at Function.create (C:\CPC\final\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\CPC\final\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\CPC\final\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\CPC\final\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+  driver: true,
+  index: 0,
+  code: 11000,
+  keyPattern: { resultId: 1 },
+  keyValue: { resultId: '123' },
+  errmsg: 'E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "123" }',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+[2020-08-20T13:16:19.850] [ERROR] cpc - compiler controller :: submitCode MongoError: E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "123" }
+    at Function.create (C:\CPC\final\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\CPC\final\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\CPC\final\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\CPC\final\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+  driver: true,
+  index: 0,
+  code: 11000,
+  keyPattern: { resultId: 1 },
+  keyValue: { resultId: '123' },
+  errmsg: 'E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "123" }',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+[2020-08-20T13:16:21.480] [INFO] cpc - Connected to database
+[2020-08-20T13:17:25.660] [INFO] cpc - Connected to database
+[2020-08-20T13:17:34.029] [INFO] cpc - Connected to database
+[2020-08-20T13:17:42.174] [INFO] cpc - Connected to database
+[2020-08-20T13:17:50.598] [ERROR] cpc - result controller:: createResult MongoError: E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "15979096705350" }
+    at Function.create (C:\CPC\final\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\CPC\final\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\CPC\final\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\CPC\final\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+  driver: true,
+  index: 0,
+  code: 11000,
+  keyPattern: { resultId: 1 },
+  keyValue: { resultId: '15979096705350' },
+  errmsg: 'E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "15979096705350" }',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+[2020-08-20T13:17:50.600] [ERROR] cpc - compiler controller :: submitCode MongoError: E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "15979096705350" }
+    at Function.create (C:\CPC\final\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\CPC\final\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\CPC\final\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\CPC\final\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+  driver: true,
+  index: 0,
+  code: 11000,
+  keyPattern: { resultId: 1 },
+  keyValue: { resultId: '15979096705350' },
+  errmsg: 'E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "15979096705350" }',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+[2020-08-20T13:17:51.999] [INFO] cpc - Connected to database
+[2020-08-20T13:24:43.560] [INFO] cpc - Connected to database
+[2020-08-20T13:25:16.195] [ERROR] cpc - result controller:: createResult MongoError: E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "rwwj42" }
+    at Function.create (C:\CPC\final\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\CPC\final\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\CPC\final\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\CPC\final\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11) {
+  driver: true,
+  index: 0,
+  code: 11000,
+  keyPattern: { resultId: 1 },
+  keyValue: { resultId: 'rwwj42' },
+  errmsg: 'E11000 duplicate key error collection: cpcDev.results index: resultId_1 dup key: { resultId: "rwwj42" }',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+[2020-08-20T13:32:28.260] [INFO] cpc - Connected to database
+[2020-08-20T13:35:04.599] [INFO] cpc - Connected to database
+[2020-08-20T13:35:36.609] [INFO] cpc - Connected to database
+[2020-08-20T13:40:53.967] [INFO] cpc - Connected to database
+[2020-08-20T13:41:33.309] [INFO] cpc - Connected to database
+[2020-08-20T13:41:52.706] [INFO] cpc - Connected to database
+[2020-08-20T13:42:49.936] [INFO] cpc - Connected to database
+[2020-08-26T14:54:55.014] [INFO] cpc - Connected to database
+[2020-08-26T15:20:57.568] [INFO] cpc - Connected to database
+[2020-08-26T15:35:11.037] [INFO] cpc - Connected to database
+[2020-08-26T15:39:18.131] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T15:41:45.052] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T15:42:25.715] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T15:48:24.016] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T16:01:21.155] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T16:04:04.711] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T16:13:13.131] [ERROR] cpc - error connecting to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoError: Authentication failed.
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:19)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:186:23) {
+  ok: 0,
+  code: 18,
+  codeName: 'AuthenticationFailed'
+}]
+    at Pool.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\topologies\server.js:438:11)
+    at Pool.emit (events.js:315:20)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:562:14
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\pool.js:995:11
+    at callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at C:\CPC\final1\node_modules\mongodb\lib\core\connection\connect.js:147:27
+    at C:\CPC\final1\node_modules\mongodb\lib\core\auth\scram.js:108:14
+    at _callback (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:329:7)
+    at Connection.messageHandler (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:360:9)
+    at Connection.emit (events.js:315:20)
+    at processMessage (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:452:10)
+    at Socket.<anonymous> (C:\CPC\final1\node_modules\mongodb\lib\core\connection\connection.js:621:15)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+[2020-08-26T22:00:41.680] [INFO] cpc - Connected to database
+[2020-08-26T22:03:39.817] [INFO] cpc - Connected to database

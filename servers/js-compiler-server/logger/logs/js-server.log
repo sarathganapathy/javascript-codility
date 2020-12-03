@@ -1,0 +1,329 @@
+[2020-07-28T14:45:01.634] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:45:02.982] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:45:35.509] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:45:37.654] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:45:38.412] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:45:47.791] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T14:56:59.188] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T15:17:12.279] [ERROR] cpc - UserDirectory controller:: getFolderList
+[2020-07-28T16:11:40.547] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\stringsss'
+}
+[2020-07-28T16:13:47.804] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\stringsss'
+}
+[2020-07-28T16:21:00.477] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\stringsss'
+}
+[2020-07-28T16:23:04.879] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:26:44.653] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:27:19.396] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:27:20.213] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:29:11.792] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:29:12.663] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:30:56.017] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:30:56.977] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, access 'C:\CPC\Project\servers\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'access',
+  path: 'C:\\CPC\\Project\\servers\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T16:43:36.009] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T16:44:03.868] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:14:10.449] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:18:12.872] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:18:13.576] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:18:13.829] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:23:19.333] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:23:20.246] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:25:07.030] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:25:07.724] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:27:05.412] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:27:06.119] [ERROR] cpc - error in compiling JS code false
+[2020-07-28T18:30:10.030] [ERROR] cpc - error in compiling JS code Error: Cannot find module '../assets/code/stringsssadd two num'
+Require stack:
+- C:\CPC\Project\dist\js-compiler-server\services\compiler.js
+- C:\CPC\Project\dist\js-compiler-server\controller\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\index.js
+- C:\CPC\Project\dist\js-compiler-server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:73:71
+    at async Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:73:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\services\\compiler.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\controller\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\app.js'
+  ]
+}
+[2020-07-28T18:43:34.013] [ERROR] cpc - error in compiling JS code Error: Cannot find module '../assets/code/stringsssaddtwo num'
+Require stack:
+- C:\CPC\Project\dist\js-compiler-server\services\compiler.js
+- C:\CPC\Project\dist\js-compiler-server\controller\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\index.js
+- C:\CPC\Project\dist\js-compiler-server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:71
+    at async Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\services\\compiler.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\controller\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\app.js'
+  ]
+}
+[2020-07-28T18:47:23.049] [ERROR] cpc - error in compiling JS code Error: Cannot find module '../assets/code/stringsssaddtwonum'
+Require stack:
+- C:\CPC\Project\dist\js-compiler-server\services\compiler.js
+- C:\CPC\Project\dist\js-compiler-server\controller\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\index.js
+- C:\CPC\Project\dist\js-compiler-server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:71
+    at async Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\services\\compiler.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\controller\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\app.js'
+  ]
+}
+[2020-07-28T19:13:24.039] [ERROR] cpc - error in compiling JS code Error: Cannot find module '../assets/code/stringsss/addtwonum'
+Require stack:
+- C:\CPC\Project\dist\js-compiler-server\services\compiler.js
+- C:\CPC\Project\dist\js-compiler-server\controller\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\compiler\index.js
+- C:\CPC\Project\dist\js-compiler-server\routes\index.js
+- C:\CPC\Project\dist\js-compiler-server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:71
+    at async Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:36) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\services\\compiler.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\controller\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\compiler\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\routes\\index.js',
+    'C:\\CPC\\Project\\dist\\js-compiler-server\\app.js'
+  ]
+}
+[2020-07-28T19:28:43.731] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\stringsss\addtwonum.js:1
+export const solve = ( ads, b) => 2 + b;
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:71
+    at async Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:66:36)
+[2020-07-28T19:51:42.229] [ERROR] cpc - Error in generating code file {"errno":-4075,"code":"EEXIST","syscall":"mkdir","path":"C:\\CPC\\Project\\dist\\js-compiler-server\\assets\\code\\stringsss"}
+[2020-07-28T19:51:42.232] [ERROR] cpc - error in compiling JS code [Error: EEXIST: file already exists, mkdir 'C:\CPC\Project\dist\js-compiler-server\assets\code\stringsss'] {
+  errno: -4075,
+  code: 'EEXIST',
+  syscall: 'mkdir',
+  path: 'C:\\CPC\\Project\\dist\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-07-28T20:31:00.100] [ERROR] cpc - error in compiling JS code ReferenceError: aa is not defined
+    at solve (C:\CPC\Project\dist\js-compiler-server\assets\code\stringsss\addtwonum.js:1:37)
+    at C:\CPC\Project\dist\js-compiler-server\services\compiler.js:54:67
+    at Array.map (<anonymous>)
+    at validateResults (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:54:14)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:70:16)
+[2020-07-30T13:06:44.222] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\stringsss\12345_subtwonum.js:1
+module.exports= {solve:( a, b) => a + b;}
+                                       ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:72:36)
+[2020-08-02T21:42:14.716] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:72:36)
+[2020-08-02T21:42:19.166] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:72:36)
+[2020-08-02T21:42:19.506] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:72:36)
+[2020-08-02T21:42:21.778] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:72:36)
+[2020-08-02T21:44:43.394] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:73:36)
+[2020-08-02T21:44:45.052] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:73:36)
+[2020-08-02T21:45:21.400] [ERROR] cpc - error in compiling JS code C:\CPC\Project\dist\js-compiler-server\assets\code\gan123\1234_subtwonum.js:1
+module.exports = {solve: ( a, b) => a - b; }
+                                         ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (internal/modules/cjs/loader.js:1054:16)
+    at Module._compile (internal/modules/cjs/loader.js:1102:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.computeResults [as default] (C:\CPC\Project\dist\js-compiler-server\services\compiler.js:76:36)
+[2020-08-18T21:50:52.379] [ERROR] cpc - Error in generating code file [Error: ENOENT: no such file or directory, mkdir 'C:\CPC\final\dist\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'mkdir',
+  path: 'C:\\CPC\\final\\dist\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-08-18T21:50:52.383] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, mkdir 'C:\CPC\final\dist\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'mkdir',
+  path: 'C:\\CPC\\final\\dist\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-08-18T23:11:24.095] [ERROR] cpc - Error in generating code file [Error: ENOENT: no such file or directory, mkdir 'C:\CPC\final\dist\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'mkdir',
+  path: 'C:\\CPC\\final\\dist\\js-compiler-server\\assets\\code\\stringsss'
+}
+[2020-08-18T23:11:24.099] [ERROR] cpc - error in compiling JS code [Error: ENOENT: no such file or directory, mkdir 'C:\CPC\final\dist\js-compiler-server\assets\code\stringsss'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'mkdir',
+  path: 'C:\\CPC\\final\\dist\\js-compiler-server\\assets\\code\\stringsss'
+}

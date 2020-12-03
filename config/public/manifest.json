@@ -1,0 +1,13 @@
+{
+    "short_name": "Javascript Codility",
+    "name": "Javascript Codility",
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "16x16",
+        "type": "image/png"
+    }],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
